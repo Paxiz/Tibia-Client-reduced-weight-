@@ -1,7 +1,7 @@
 # Tibia Client reduced weight
 Reduced weight by removed unused sprites from tibia client, not items, not outfits, not effects but unused.
 
-Tibia 10.98
+Tibia 10.98 <br>
 Oryginal:
 Sprites: 338944  Weight: 164 MB
 Removed unused:
